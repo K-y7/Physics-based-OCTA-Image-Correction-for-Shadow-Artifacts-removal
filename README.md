@@ -8,13 +8,18 @@ Office Website：[TGU-UOW](http://tgu-uow.gitee.io/)
 ·python 3.8
 ## Train
 Modify the config.yml to set your parameters and run:<br>
-```python train.py``` 
+```
+python train.py
+``` 
+
 ## Test
 Although the image size we trained is 256*256, the predicted image can be any size, you just need to modify the length and width in config.yml. <br>
-```python predict.py --config <path_to_config.yml_in_the_out_dir> --test_dir <path_to_a_directory_stored_test_data> 
---out_dir <path_to_an_output_directory> --pretrained <path_to_a_pretrained_model> --cuda```
-Pretrained model
--------
+```
+python predict.py --config <path_to_config.yml_in_the_out_dir> --test_dir <path_to_a_directory_stored_test_data> --out_dir <path_to_an_output_directory> --pretrained <path_to_a_pretrained_model> --cuda
+```
+## Pretrained model
 Download the pretrained model shadow artifact-removal [Baidu Drive](https://pan.baidu.com/s/1Vh4FiW_cUK_0mXauz1mZsA) extract code：epzo  
 There're my pre-trained models on OCTA images<br>
 ![Result](https://github.com/K-y7/Removal-of-shadow-artifacts-in-OCTA-retinal-images/blob/master/imgs/result.png)
+## Acknowledgment
+The code is based on https://github.com/zhangbaijin/SpA-Former-shadow-removal
