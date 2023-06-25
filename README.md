@@ -15,3 +15,4 @@ Although the image size we trained is 256*256, the predicted image can be any si
 ## Pretrained model
 Download the pretrained model shadow artifact-removal [Baidu Drive](https://pan.baidu.com/s/1Vh4FiW_cUK_0mXauz1mZsA) extract code：epzo  
 There're my pre-trained models on OCTA images
+![Result](https://github.com/K-y7/Removal-of-shadow-artifacts-in-OCTA-retinal-images/blob/master/imgs/result.png)
