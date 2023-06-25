@@ -1,2 +1,2 @@
-# Removal-of-shadow-artifacts-in-OCTA-retinal-images
+# Removal-of-Shadow-Artifacts-in-OCTA-Retinal-Images
 ## Intruduction
