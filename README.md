@@ -21,5 +21,6 @@ python predict.py --config <path_to_config.yml_in_the_out_dir> --test_dir <path_
 Download the pretrained model shadow artifact-removal [Baidu Drive](https://pan.baidu.com/s/1Vh4FiW_cUK_0mXauz1mZsA) extract code：epzo  
 There're my pre-trained models on OCTA images<br>
 ![Result](https://github.com/K-y7/Removal-of-shadow-artifacts-in-OCTA-retinal-images/blob/master/imgs/result.png)
+## Contact
 ## Acknowledgment
 The code is based on https://github.com/zhangbaijin/SpA-Former-shadow-removal
