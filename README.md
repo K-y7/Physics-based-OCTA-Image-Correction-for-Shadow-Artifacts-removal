@@ -13,4 +13,4 @@ Modify the config.yml to set your parameters and run:<br>
 Although the image size we trained is 256*256, the predicted image can be any size, you just need to modify the length and width in config.yml. <br>
 ```python predict.py --config <path_to_config.yml_in_the_out_dir> --test_dir <path_to_a_directory_stored_test_data> --out_dir <path_to_an_output_directory> --pretrained <path_to_a_pretrained_model> --cuda```
 ## Pretrained model
-Download the pretrained model shadow artifact-removal [Baidu Drive](https://pan.baidu.com/s/1Vh4FiW_cUK_0mXauz1mZsA)extract code：epzo
+Download the pretrained model shadow artifact-removal [Baidu Drive](https://pan.baidu.com/s/1Vh4FiW_cUK_0mXauz1mZsA) extract code：epzo
