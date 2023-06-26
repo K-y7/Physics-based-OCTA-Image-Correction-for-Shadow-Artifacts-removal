@@ -23,7 +23,7 @@ There're my pre-trained models on OCTA images<br>
 ![Result](https://github.com/K-y7/Removal-of-shadow-artifacts-in-OCTA-retinal-images/blob/master/imgs/result.png)
 ## Contact Us
 For additional questions or discussions, Please contact email:
-wangkang9951@163.com
+wangkang9951@163.com  
 liguangxu@tiangong.edu.cn
 ## Copyright
 Do not use for commercial purposes without permission.
