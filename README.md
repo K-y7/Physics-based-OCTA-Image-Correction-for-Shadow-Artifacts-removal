@@ -4,7 +4,7 @@ We propose a deep learning-based method that can directly detect and remove shad
 This method was developed by Kang Wang from TGU-UOW laboratory based on SpA-Former.<br>
 Office Website：[TGU-UOW](http://tgu-uow.gitee.io/)
 ## Usage
-·pytorch 1.8.1<br>
+<font size=6 color=red>·pytorch 1.8.1<br>
 ·python 3.8
 ### Train
 Modify the config.yml to set your parameters and run:<br>
